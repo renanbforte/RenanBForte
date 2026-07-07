@@ -55,18 +55,6 @@ Combino visão analítica (Lean Six Sigma Black Belt) com execução técnica em
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanbarbosaforte&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanbarbosaforte&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Formação & Certificações
 
 - **Pós-graduação em Engenharia de Processos** — IMT (Instituto Mauá de Tecnologia)
